@@ -21,7 +21,7 @@ button {
   font-weight: 600;
 }
 
-/* Layout Helpers */
+
 .container {
   width: 90%;
   max-width: 1200px;
@@ -32,7 +32,7 @@ button {
   background-color: #388659;
 }
 
-/* Header */
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -82,7 +82,7 @@ button {
   color: #388659;
 }
 
-/* Hero */
+
 .hero {
   display: flex;
   flex-wrap: wrap;
@@ -124,7 +124,7 @@ button {
   object-fit: cover;
 }
 
-/* Feature Section */
+
 .feature-section {
   display: flex;
   flex-wrap: wrap;
@@ -168,7 +168,7 @@ button {
   border: none;
 }
 
-/* Ingredients */
+
 .ingredients-section {
   display: flex;
   flex-wrap: wrap-reverse;
@@ -190,7 +190,7 @@ button {
   max-width: 500px;
 }
 
-/* Testimonials */
+
 .testimonials {
   padding: 60px 5%;
   text-align: center;
@@ -221,7 +221,7 @@ button {
   font-weight: 600;
 }
 
-/* FAQs */
+
 .faq {
   padding: 60px 5%;
   text-align: center;
@@ -258,7 +258,7 @@ button {
   border: none;
 }
 
-/* CTA */
+
 .cta-section {
   padding: 60px 5%;
   text-align: center;
@@ -272,10 +272,10 @@ button {
   gap: 10px;
 }
 
-/* Footer */
+
 .footer {
   padding: 30px 5%;
-  background-color: #111;
+  background-color:#E7EDCA ;
   color: #ccc;
   text-align: center;
 }
@@ -294,7 +294,7 @@ button {
   font-size: 14px;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .hero, .feature-section, .ingredients-section {
     flex-direction: column;
